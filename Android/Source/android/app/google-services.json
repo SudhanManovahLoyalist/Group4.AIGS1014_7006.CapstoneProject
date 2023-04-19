@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "94224982570",
+    "project_id": "emotiondetection-007",
+    "storage_bucket": "emotiondetection-007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94224982570:android:228ce1c0fa5724f5ad5953",
+        "android_client_info": {
+          "package_name": "EmotionDetection.Capstone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94224982570-nsbrq8tero4h0varnk9otpt1no7m2bp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGcqDktwC0DpCYxamPcEZirhKhQKCJB44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94224982570-nsbrq8tero4h0varnk9otpt1no7m2bp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

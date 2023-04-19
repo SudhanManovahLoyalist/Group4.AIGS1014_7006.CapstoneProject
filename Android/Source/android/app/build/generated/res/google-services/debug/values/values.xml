@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">94224982570-nsbrq8tero4h0varnk9otpt1no7m2bp9.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">94224982570</string>
+    <string name="google_api_key" translatable="false">AIzaSyDGcqDktwC0DpCYxamPcEZirhKhQKCJB44</string>
+    <string name="google_app_id" translatable="false">1:94224982570:android:228ce1c0fa5724f5ad5953</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDGcqDktwC0DpCYxamPcEZirhKhQKCJB44</string>
+    <string name="google_storage_bucket" translatable="false">emotiondetection-007.appspot.com</string>
+    <string name="project_id" translatable="false">emotiondetection-007</string>
+</resources>
